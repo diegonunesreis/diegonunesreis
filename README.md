@@ -1,12 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+### <div align="center">Hi! I'm Diego, a full-time full-stack developer 👨‍💻</div>  
   
 
-### <div align="center">I'm Diego, a full-time full-stack developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working on [Runner Tools](https://github.com/diegonunesreis/runner-tools)  
+- 🔭 I’m currently working on [Runner Tools](https://github.com/diegonunesreis/runner-tools) 
   
 
 - ❓ Ask me about anything related to MEAN stack and related technologies. I'm also very familiar with Microsoft ecosystem  
